@@ -1,0 +1,40 @@
+* Variables.     
+    las variables son las piezas fundamentales en la programación las
+    variables se pueden definir en varios aspectos que son:
+    cadenas de letras, 
+    letras,
+    numeros,
+    caracteres especiales (estos sienpre y cuando se encuentren dentro de     comillas dobles o sencillas("", '')),
+    valores logicos como true o falce (cierto o falso), 
+    arrays,
+    objetos,
+    funciones.
+    estas variables estan sujetas a unas reglas espesificas, cada
+    cada variable debe iniciarse con el prefijo var, let, o const un
+    nombre y un un valor, ejemplo: var conejo = 10;, let gato = 9 
+    const pi = 3.1416... los nombres no pueden iniciar con un numeros o
+    caracteres especiales.
+
+* Strings.     
+  la traducción de string es cadena, y hace refrencia a una cadena de 
+  letras numeros o cualquier caracter que se pueda encerrar dentro de
+  unas comillas ya sean comillas dobles o simples.
+
+* Funciones.     
+  las funciones son una especie de caja, la cual contiene una serie de 
+  ordenes las cuales nos facilitan el trabajo a la hora de escribir 
+  codigo.
+
+* Declaraciones 'if'.     
+  las declaraciones 'if' son condicionales que nos ayudan a decidir entre
+  una opción y otra dando acceso a uno o varios resultados lógicos.
+
+* Valores booleanos.       
+  los booleanos son dos condiciones lógicas el cual nos permite 
+  escojer entre verdadero y falso.
+
+
+
+
+
+	
