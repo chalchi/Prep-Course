@@ -1,0 +1,19 @@
+
+* for.   
+  el for es un bucle que recorre arrays, objetos, y strings pieza por
+  pieza y ayuda en la busqueda de alguna variable en especial.
+
+* &&.    
+  and es un operador lógico binario o para dos opciones, funcionan para 
+  razonar sobre operaciones booleanas donde el resultado es verdadero 
+  solo si las dos opciones son verdaderas.
+  
+* ||.   
+  or es un operador lógico, en una operación booleana si uno de los 
+  dos resultados es verdadero la operación resulta verdadera.
+
+* !.   
+  Not es un operador unario que voltea el valor, ejemplo: 
+  !true = falce, !falce = true.
+
+

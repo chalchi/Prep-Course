@@ -1,0 +1,32 @@
+
+body {
+  background-image: url(https://st3.depositphotos.com/13324256/19273/i/450/depositphotos_192739156-stock-photo-top-view-different-types-knifes.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.smaller-image{
+  width: 400px;
+  margin: 0 auto;
+}
+.text-divClass{
+  text-align: center;
+}
+.size-thirdDiv {
+  height: 600px;
+  width: 500px;
+  padding: 50px;
+  border-color: blue;
+  border-width: 5px;
+  border-style: solid;
+  margin: 0 auto;
+}
+.size-spanId {
+  font-size: 18px;
+  text-align: center;
+}
+.green-background{
+  background-color: green;
+}
+.thin-brown-border {
+  border-color: brown;
+}
