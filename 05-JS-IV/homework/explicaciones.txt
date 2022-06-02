@@ -1,0 +1,51 @@
+
+*Objetos.  
+  los objetos son como los arrays solo que estas cajas en las que se puede  enlistar caracteristicas propias de un solo lemento, lo mejor es tener 
+  varios elementos distintos bien organizados a uno solo con todo hecho
+  una madeja sin fin.
+
+*Propiedades.  
+ las propiedades son las partes en las que se divide un objeto, un ejemplo seria el cuerpo humano el cuerpo sería el objeto y las propiedades serian la cabeza, las extremidades, organos externos e internos. En este caso
+ podemos decir que como ejemplo tendriamos dos objetos, hombre y mujer.
+    
+*Método.   
+ un metodo es una función dentro de un objeto haciendo una función como
+ tal dentro del objeto.
+   
+*Bucle 'for in'.  
+ el bucle for in es como el for of, se desprenden del for y se usan con 
+ diferentes propósitos. for in sirve solo cuando buscamos claves en un 
+ objeto como para pintarlo en la pantalla.
+
+
+    
+*Notación de punto vs notación de corchetes.   
+ son dos formas diferentes de acceder a un objeto.
+ 
+ Dot Notation:
+ es la forma corta de acceder a un objeto y a sus propiedades.
+          
+                alumno.nombre;
+                   ^     ^
+ nombre del objeto-^     ^-propiedad del objeto.
+
+ Bracket Notation:
+ es la otra forma de acceder a la propiedad de un objeto.
+ 
+                alumno['nombre'];
+                   ^      ^
+ nombre del objeto-^      ^-propiedad del objeto.
+
+ y de igual forma se puede usar con una variable la cual debe hacer 
+ referencia a una cadena o al indice de la cadena.
+
+                   alumno[i];
+                   ^      ^
+ nombre del objeto-^      ^-variable que hace referencia a una cadena
+
+
+                   alumno[1];
+                   ^      ^     
+ nombre del objeto-^      ^-indice de una cadena.
+ 
+

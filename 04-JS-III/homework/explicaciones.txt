@@ -1,0 +1,5 @@
+
+* Arrays.
+  los arrays son una especie de cajas en donde se puede guardar todo tipo   de variables, strings, objetos, numeros, booleanos y hasta funciones.
+
+
