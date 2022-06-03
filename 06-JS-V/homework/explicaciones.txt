@@ -1,0 +1,8 @@
+*Prototype:
+ Este en una manera de resolver un tipo de problema, solo que en esta caso tu decides la programacion de esa solución, con un proceso complejo o no  y con esto poder resolver uno o más problemas.
+
+*Constructor:
+ al final es una función es lo que definira lo que entra en la plantilla y solo lo que entra no como entra.
+
+
+
