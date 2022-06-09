@@ -1,0 +1,2 @@
+*Callbacks.
+ Son funciones que se pasan como argumentos dentro de una función.
